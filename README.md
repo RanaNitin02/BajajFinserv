@@ -48,7 +48,10 @@ bfhl-api/
 {
   "data": ["a", "1", "334", "4", "R", "$"]
 }
-output: 
+```
+
+📤 Sample Response
+```json
 {
   "is_success": true,
   "user_id": "john_doe_17091999",
